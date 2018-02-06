@@ -79,10 +79,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Propolis Books
+                    PROPOLIS BOOKS socialite 
                 </div>
 
-              
+                <div class="links">
+                    <a href="https://www.propolisbooks.com">Sajt</a>
+                    <a href="https://www.facebook.com/ProPolisBooks/">Fejsbuk</a>
+                    <a href="http://www.pictame.com/user/propolis_books/4689563054">Instagram</a>
+                    <a href="#">VKontakt</a>
+                 
+                </div>
             </div>
         </div>
     </body>
